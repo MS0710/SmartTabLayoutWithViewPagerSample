@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartTabLayoutSample</string>
+
+    <string name="tab_home">首頁</string>
+    <string name="tab_orders">我的最愛</string>
+    <string name="tab_me">歷史紀錄</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
